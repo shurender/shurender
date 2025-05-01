@@ -1,15 +1,16 @@
-👀About Me || [Linkdin](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)  
-Currently diving  into Python, one script at a time.
+👀BOUT ME || [Linkdin](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)  
 
-Learning by doing — building, breaking, and fixing things because that's how I grow!
+Currently diving  into Python🐍, one script at a time.
 
-Passionate about everything — if it's interesting, I'm probably already exploring it.
+Learning📚 by doing — building, breaking, and fixing things because that's how I grow!
 
-sometimes on Problem-solving Conundrome on [LeetCode](https://leetcode.com/u/suyajk/)
+Passionate🤓 about everything — if it's interesting, I'm probably already exploring it.
 
-If you're looking to collaborate on anything or just connect contact me on [Linkdin](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
+sometimes on Problem-solving😵 Conundrome on [LeetCode](https://leetcode.com/u/suyajk/)
 
-Pronouns : non/chalant
+If you're looking👁‍🗨👄👁‍🗨 to collaborate on anything or just connect contact me on [Linkdin](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
+
+Pronouns : non/chalant🐱‍👤✨😃
 
 <!---
 shurender/shurender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
