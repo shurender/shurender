@@ -1,5 +1,4 @@
-👀About Me || [![image](https://github.com/user-attachments/assets/5713f3d7-6b33-4c16-ab49-f5a340ee46aa)
-](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)  
+👀About Me || [Linkdin](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)  
 Currently diving  into Python, one script at a time.
 Learning by doing — building, breaking, and fixing things because that's how I grow!
 Passionate about everything — if it's interesting, I'm probably already exploring it.
