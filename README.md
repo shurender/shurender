@@ -1,4 +1,7 @@
-👀BOUT ME || [Linkdin](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)  
+👀BOUT ME || [LINKDIN](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/) || [PORTFOLIO]() || [LEETCODE](https://leetcode.com/u/suyajk/)
+)
+
+go by jk/suryajk @Shurender
 
 Currently diving  into Python🐍, one script at a time.
 
@@ -8,7 +11,7 @@ Passionate🤓 about everything — if it's interesting, I'm probably already ex
 
 sometimes on Problem-solving😵 Conundrome on [LeetCode](https://leetcode.com/u/suyajk/)
 
-If you're looking👁‍🗨👄👁‍🗨 to collaborate on anything or just connect contact me on [Linkdin](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
+If you're looking👁‍🗨👄👁‍🗨 to collaborate on anything or just connect contact me on [LinkdIn](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
 
 Pronouns : non/chalant🐱‍👤✨😃
 
