@@ -9,7 +9,7 @@ Learning📚 by doing — building, breaking, and fixing things because that's h
 
 Passionate🤓 about everything — if it's interesting, I'm probably already exploring it.
 
-Sometimes on Problem-solving😵 Conundrome on [LeetCode](https://leetcode.com/u/suyajk/)
+Sometimes on Problem-solving😵 Conundrome on [LeetCode](https://leetcode.com/u/sjkcode/)
 
 If you're looking👁‍🗨👄👁‍🗨 to collaborate on anything or just connect contact me on [LinkdIn](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
 
