@@ -1,4 +1,4 @@
-👀BOUT ME || [LINKDIN](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/) || [PORTFOLIO]() || [LEETCODE](https://leetcode.com/u/suyajk/)
+👀BOUT ME || [LINKDIN](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/) || [PORTFOLIO]() || [LEETCODE](https://leetcode.com/u/sjkcode/)
 )
 
 go by jk/sjk @Shurender
