@@ -1,17 +1,17 @@
 👀BOUT ME || [LINKDIN](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/) || [PORTFOLIO]() || [LEETCODE](https://leetcode.com/u/sjkcode) || [HACKERRANK](https://www.hackerrank.com/profile/shurenderbahadu1)
 )
 
-go by jk/sjk @Shurender
+go by jk/sjk
 
-Currently diving  into Python🐍, one script at a time.
+Only into Pythonz🐍, one script at a time.
 
-Learning📚 by doing — building, breaking, and fixing things because that's how I grow!
+dbuilding, breaking, and fixing things because thast all I can do
 
-Passionate🤓 about everything — if it's interesting, I'm probably already exploring it.
+Passionate🤓 about everything TBF.
 
-Sometimes on Problem-solving😵 Conundrome on [LeetCode](https://leetcode.com/u/sjkcode/)
+Sometimes on Problem-solving Conundrome on [LeetCode](https://leetcode.com/u/sjkcode/)
 
-If you're looking👁‍🗨👄👁‍🗨 to collaborate on anything or just connect contact me on [LinkdIn](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
+Wanna connect? contact me on [LinkdIn](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
 
 Pronouns : non/chalant🐱‍👤✨😃
 
