@@ -5,7 +5,7 @@ go by jk/sjk
 
 Only into Pythonz🐍, one script at a time.
 
-dbuilding, breaking, and fixing things because thast all I can do
+building, breaking, and fixing things because thast all I can do
 
 Passionate🤓 about everything TBF.
 
