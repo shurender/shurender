@@ -11,7 +11,7 @@ Passionate🤓 about everything TBF.
 
 Sometimes on Problem-solving Conundrome on [LeetCode](https://leetcode.com/u/sjkcode/)
 
-Wanna connect? contact me on [LinkdIn](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
+Wanna connect? contact me on [LinkedIn](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/)
 
 Pronouns : non/chalant🐱‍👤✨😃
 
