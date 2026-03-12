@@ -1,11 +1,11 @@
-👀BOUT ME || [LINKDIN](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/) || [PORTFOLIO]() || [LEETCODE](https://leetcode.com/u/sjkcode) || [HACKERRANK](https://www.hackerrank.com/profile/shurenderbahadu1)
+👀BOUT ME || [LINKEDIN](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/) || [PORTFOLIO]() || [LEETCODE](https://leetcode.com/u/sjkcode) || [HACKERRANK](https://www.hackerrank.com/profile/shurenderbahadu1)
 )
 
 go by jk/sjk
 
 Only into Pythonz🐍, one script at a time.
 
-building, breaking, and fixing things because thast all I can do
+building, breaking, and fixing things because thats all I can do
 
 Passionate🤓 about everything TBF.
 
