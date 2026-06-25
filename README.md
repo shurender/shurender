@@ -3,6 +3,8 @@
 
 go by jk/sjk
 
+AI Developer
+
 Only into Pythonz🐍, one script at a time.
 
 building, breaking, and fixing things because thats all I can do
