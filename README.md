@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/72b6acc2-3719-4db8-a0a3-b3b1546f18a8" width="600" alt="Coding GIF"/>
-</p>
+<img width="1920" height="1080" alt="code" src="https://github.com/user-attachments/assets/72b6acc2-3719-4db8-a0a3-b3b1546f18a8" />
 
 👀BOUT ME || [LINKEDIN](https://www.linkedin.com/in/shurender-bahadur-boda-929684261/) || [PORTFOLIO]() || [LEETCODE](https://leetcode.com/u/sjkcode) || [HACKERRANK](https://www.hackerrank.com/profile/shurenderbahadu1)
 )
