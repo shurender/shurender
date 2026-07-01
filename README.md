@@ -10,7 +10,7 @@ go by jk/Shurender
 
 AI Developer
 
-Into Pythonz🐍, one script at a time.
+Into Pythonz🐍, one script at a time they said (I'm they).
 
 always tryna build, break, and fix things because thats all I can do
 
